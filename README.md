@@ -22,7 +22,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Screenshot
 
-3 column preview card screenshot.png
+https://github.com/Sai-Kumar-Kanuri/3-column-preview-card-component/blob/main/3%20column%20preview%20card%20screenshot.png
 
 ### Links
 
