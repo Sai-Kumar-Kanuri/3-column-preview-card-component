@@ -27,7 +27,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/3columnpreviewcardcomponent-using-html-and-css-qy9K7yXAY](https://your-solution-url.com)
-- Live Site URL: [https://sai-kumar-kanuri.github.io/3-column-preview-card-component/](https://your-live-site-url.com)
+
+- Live Site URL: https://sai-kumar-kanuri.github.io/3-column-preview-card-component/
 
 ## My process
 
